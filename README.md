@@ -1,7 +1,5 @@
 # NetGaze
 
-![NetGaze Logo](https://via.placeholder.com/150) <!-- Replace with your logo -->
-
 **NetGaze** is a powerful yet lightweight tool designed to capture and analyze network traffic on Android devices without requiring root access. Built using **mitmproxy** and **ADB**, NetGaze provides a seamless way to monitor, log, and inspect HTTP/HTTPS traffic in real-time.
 
 ---
@@ -36,6 +34,10 @@ NetGaze uses **mitmproxy** as a man-in-the-middle (MITM) proxy to capture and an
 3. NetGaze provides a user-friendly interface to start/stop capturing, view live traffic, and export logs for further analysis.
 
 ---
+
+## Screenshot
+- ![image](https://github.com/user-attachments/assets/29dc5836-6d4d-4df8-8da8-05e4206779bd)
+
 
 ## Getting Started
 
